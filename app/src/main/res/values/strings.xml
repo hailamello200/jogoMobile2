@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Jogo da velha</string>
+    <string name="email_title">Email</string>
+    <string name="email_text_editing">Digite seu Email</string>
+
+    <string name="password_title">Senha</string>
+    <string name="password_text_editing">Digite sua senha</string>
+    <string name="login">Entrar</string>
+
+    <string name="message1">Email</string>
+    <string name="message2">Digite seu Email…</string>
+    <string name="message3">Nome Completo</string>
+    <string name="message4">Digite seu Nome Completo…</string>
+
+    <string name="message5">Data de Nascimento</string>
+    <string name="message6">Digite sua Data de Nascimento…</string>
+
+    <string name="message7">Telefone</string>
+    <string name="message8">Digite seu Telefone para Contato…</string>
+    <string name="message9">Senha</string>
+    <string name="message10">Digite sua Senha…</string>
+    <string name="message11">Cadastrar</string>
+
+    <string name="message12">1° Jogador:</string>
+    <string name="message13">2° Jogador:</string>
+    <string name="message14">Jogador</string>
+
+    <string name="message15">Começar Partida</string>
+    <string name="message16">Jogo da Velha</string>
+    <string name="message17">Digite o nome do jogador 1:</string>
+    <string name="message18">Digite o nome do jogador 2:</string>
+    <string name="message19">Jogar</string>
+    <string name="message20">Vencedor</string>
+    <string name="message21">Jogar Novamente</string>
+    <string name="message22">Enviar</string>
+    <string name="message23">Endereço</string>
+
+    <string name="message24">Palavra Chave</string>
+    <string name="message25">Digite sua Palavra Chave…</string>
+
+    <string name="message26">Nome Completo</string>
+    <string name="message27">Email</string>
+    <string name="message28">Telefone</string>
+    <string name="message29">Data de Nascimento</string>
+    <string name="message30">Chave</string>
+    <string name="message31">Logout</string>
+
+    <string name="message32">CPF</string>
+    <string name="message33">Digite seu CPF</string>
+
+    <string name="message34">Criar Conta</string>
+    <string name="message35">CPF</string>
+
+    <string name="message36">Cidade</string>
+    <string name="message37">Bairro</string>
+    <string name="message38">Rua</string>
+    <string name="message39">CEP</string>
+    <string name="message40">Número</string>
+    <string name="message41">Complemento</string>
+
+    <string name="message42">Cadastrar Endereço</string>
+    <string name="message43">Texto</string>
+    <string name="message44">Mensagem</string>
+    <string name="message45">Contato</string>
+
+    <string name="message46">Bem Vindo</string>
+    <string name="message47">Por favor, informe os dados de login</string>
+    <string name="message48">Endereço de Email</string>
+    <string name="message49">Senha</string>
+    <string name="message50">Ou Cadastre-se</string>
+
+    <string name="message51">Por favor, preencha as informações corretamente</string>
+    <string name="message52">Ou Faça Login</string>
+    <string name="message53">Dados de Endereço</string>
+    <string name="message54">Remember me</string>
+    <string name="message55">YOUR REFUGE</string>
+
+    <string name="message56">Sigilo</string>
+    <string name="message57">Segurança</string>
+    <string name="message58">Confiança</string>
+
+    <string name="message59">Digite o nome…</string>
+    <string name="message60">Postar Anonimamente</string>
+    <string name="message61">Enviar Mensagem Pré-Definida</string>
+    <string name="menu_inicio">Início</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_whatsapp">Whatsapp</string>
+    <string name="menu_post">Postagem</string>
+</resources>
